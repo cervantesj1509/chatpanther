@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777900595989",
+    "firebase_url": "https://chatpanther.firebaseio.com",
+    "project_id": "chatpanther",
+    "storage_bucket": "chatpanther.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777900595989:android:8dd670fcfcd2bc75",
+        "android_client_info": {
+          "package_name": "com.example.chatpanther"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777900595989-esmdkrlv5kb9n3urr22cub8ec6e9isbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwE7D1gUs4SZ8K4JLksF0flLrVPnMDUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777900595989-esmdkrlv5kb9n3urr22cub8ec6e9isbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
